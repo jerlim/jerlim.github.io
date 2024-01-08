@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on thejerney</title>
-    <link>https://thejerney.com/tags/</link>
+    <link>jerlim.github.io/tags/</link>
     <description>Recent content in Tags on thejerney</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 04 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://thejerney.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="jerlim.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>healthcare</title>
-      <link>https://thejerney.com/tags/healthcare/</link>
+      <link>jerlim.github.io/tags/healthcare/</link>
       <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://thejerney.com/tags/healthcare/</guid>
+      <guid>jerlim.github.io/tags/healthcare/</guid>
       
       <description></description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>singapore</title>
-      <link>https://thejerney.com/tags/singapore/</link>
+      <link>jerlim.github.io/tags/singapore/</link>
       <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://thejerney.com/tags/singapore/</guid>
+      <guid>jerlim.github.io/tags/singapore/</guid>
       
       <description></description>
       
@@ -31,32 +31,10 @@
     
     <item>
       <title>thoughts</title>
-      <link>https://thejerney.com/tags/thoughts/</link>
+      <link>jerlim.github.io/tags/thoughts/</link>
       <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://thejerney.com/tags/thoughts/</guid>
-      
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>european</title>
-      <link>https://thejerney.com/tags/european/</link>
-      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://thejerney.com/tags/european/</guid>
-      
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>restaurant</title>
-      <link>https://thejerney.com/tags/restaurant/</link>
-      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://thejerney.com/tags/restaurant/</guid>
+      <guid>jerlim.github.io/tags/thoughts/</guid>
       
       <description></description>
       
@@ -64,10 +42,98 @@
     
     <item>
       <title>fine dining</title>
-      <link>https://thejerney.com/tags/fine-dining/</link>
-      <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
+      <link>jerlim.github.io/tags/fine-dining/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://thejerney.com/tags/fine-dining/</guid>
+      <guid>jerlim.github.io/tags/fine-dining/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>spanish</title>
+      <link>jerlim.github.io/tags/spanish/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>jerlim.github.io/tags/spanish/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>cafe</title>
+      <link>jerlim.github.io/tags/cafe/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>jerlim.github.io/tags/cafe/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>confectionary</title>
+      <link>jerlim.github.io/tags/confectionary/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>jerlim.github.io/tags/confectionary/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>hotel</title>
+      <link>jerlim.github.io/tags/hotel/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>jerlim.github.io/tags/hotel/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>marriott</title>
+      <link>jerlim.github.io/tags/marriott/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>jerlim.github.io/tags/marriott/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>staycation</title>
+      <link>jerlim.github.io/tags/staycation/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>jerlim.github.io/tags/staycation/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>european</title>
+      <link>jerlim.github.io/tags/european/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>jerlim.github.io/tags/european/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>restaurant</title>
+      <link>jerlim.github.io/tags/restaurant/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>jerlim.github.io/tags/restaurant/</guid>
       
       <description></description>
       
@@ -75,10 +141,10 @@
     
     <item>
       <title>japanese</title>
-      <link>https://thejerney.com/tags/japanese/</link>
-      <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
+      <link>jerlim.github.io/tags/japanese/</link>
+      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://thejerney.com/tags/japanese/</guid>
+      <guid>jerlim.github.io/tags/japanese/</guid>
       
       <description></description>
       

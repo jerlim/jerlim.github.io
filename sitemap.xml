@@ -2,76 +2,115 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://thejerney.com/categories/</loc>
+    <loc>jerlim.github.io/categories/</loc>
     <lastmod>2023-04-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thejerney.com/tags/healthcare/</loc>
+    <loc>jerlim.github.io/tags/healthcare/</loc>
     <lastmod>2023-04-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thejerney.com/categories/live/</loc>
+    <loc>jerlim.github.io/categories/live/</loc>
     <lastmod>2023-04-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thejerney.com/posts/2023/04/navigating-singapore-healthcare-as-a-caregiver/</loc>
+    <loc>jerlim.github.io/posts/2023/04/navigating-singapore-healthcare-as-a-caregiver/</loc>
     <lastmod>2023-04-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thejerney.com/posts/</loc>
+    <loc>jerlim.github.io/posts/</loc>
     <lastmod>2023-04-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thejerney.com/thumbnail/rants_healthcare.jpg/</loc>
+    <loc>jerlim.github.io/thumbnail/rants_healthcare.jpg/</loc>
     <lastmod>2023-04-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thejerney.com/tags/singapore/</loc>
+    <loc>jerlim.github.io/tags/singapore/</loc>
     <lastmod>2023-04-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thejerney.com/tags/</loc>
+    <loc>jerlim.github.io/tags/</loc>
     <lastmod>2023-04-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thejerney.com/</loc>
+    <loc>jerlim.github.io/</loc>
     <lastmod>2023-04-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thejerney.com/tags/thoughts/</loc>
+    <loc>jerlim.github.io/tags/thoughts/</loc>
     <lastmod>2023-04-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thejerney.com/thumbnail/</loc>
+    <loc>jerlim.github.io/thumbnail/</loc>
     <lastmod>2023-04-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thejerney.com/categories/eat/</loc>
+    <loc>jerlim.github.io/categories/eat/</loc>
+    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>jerlim.github.io/tags/fine-dining/</loc>
+    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>jerlim.github.io/tags/spanish/</loc>
+    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>jerlim.github.io/posts/2021/05/una-the-alkaff-mansion/</loc>
+    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>jerlim.github.io/thumbnail/una_featured.jpg/</loc>
+    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>jerlim.github.io/tags/cafe/</loc>
+    <lastmod>2021-05-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>jerlim.github.io/posts/2021/05/champion-bolo-bun-tanjong-pagar-road/</loc>
+    <lastmod>2021-05-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>jerlim.github.io/thumbnail/championbolobun_featured.jpg/</loc>
+    <lastmod>2021-05-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>jerlim.github.io/tags/confectionary/</loc>
+    <lastmod>2021-05-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>jerlim.github.io/categories/fly/</loc>
+    <lastmod>2021-05-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>jerlim.github.io/tags/hotel/</loc>
+    <lastmod>2021-05-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>jerlim.github.io/tags/marriott/</loc>
+    <lastmod>2021-05-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>jerlim.github.io/tags/staycation/</loc>
+    <lastmod>2021-05-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>jerlim.github.io/posts/2021/05/the-westin-singapore-staycation/</loc>
+    <lastmod>2021-05-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>jerlim.github.io/thumbnail/thewestinsingapore_featured.jpg/</loc>
+    <lastmod>2021-05-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>jerlim.github.io/tags/european/</loc>
+    <lastmod>2021-05-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>jerlim.github.io/tags/restaurant/</loc>
+    <lastmod>2021-05-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>jerlim.github.io/posts/2021/05/the-spot-marina-one/</loc>
+    <lastmod>2021-05-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>jerlim.github.io/thumbnail/thespot_featured.jpg/</loc>
+    <lastmod>2021-05-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>jerlim.github.io/posts/2021/04/skai-swissotel-the-stamford/</loc>
     <lastmod>2021-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thejerney.com/tags/european/</loc>
+    <loc>jerlim.github.io/thumbnail/skai_featured.jpg/</loc>
     <lastmod>2021-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thejerney.com/tags/restaurant/</loc>
-    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
+    <loc>jerlim.github.io/posts/2021/04/iggys-hilton-singapore/</loc>
+    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thejerney.com/posts/2021/04/the-spot-marina-one/</loc>
-    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
+    <loc>jerlim.github.io/thumbnail/iggys_featured.jpg/</loc>
+    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thejerney.com/thumbnail/thespot_featured.jpg/</loc>
-    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
+    <loc>jerlim.github.io/tags/japanese/</loc>
+    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thejerney.com/tags/fine-dining/</loc>
-    <lastmod>2021-04-26T00:00:00+00:00</lastmod>
+    <loc>jerlim.github.io/pages/about/</loc>
   </url><url>
-    <loc>https://thejerney.com/posts/2021/04/skai-swissotel-the-stamford/</loc>
-    <lastmod>2021-04-26T00:00:00+00:00</lastmod>
+    <loc>jerlim.github.io/pages/</loc>
   </url><url>
-    <loc>https://thejerney.com/thumbnail/skai_featured.jpg/</loc>
-    <lastmod>2021-04-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thejerney.com/posts/2021/04/iggys-hilton-singapore/</loc>
-    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thejerney.com/thumbnail/iggys_featured.jpg/</loc>
-    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thejerney.com/tags/japanese/</loc>
-    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thejerney.com/pages/about/</loc>
-  </url><url>
-    <loc>https://thejerney.com/pages/</loc>
-  </url><url>
-    <loc>https://thejerney.com/pages/privacy/</loc>
+    <loc>jerlim.github.io/pages/privacy/</loc>
   </url>
 </urlset>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on thejerney</title>
-    <link>https://thejerney.com/categories/</link>
+    <link>jerlim.github.io/categories/</link>
     <description>Recent content in Categories on thejerney</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 04 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://thejerney.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="jerlim.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>live</title>
-      <link>https://thejerney.com/categories/live/</link>
+      <link>jerlim.github.io/categories/live/</link>
       <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://thejerney.com/categories/live/</guid>
+      <guid>jerlim.github.io/categories/live/</guid>
       
       <description></description>
       
@@ -20,10 +20,21 @@
     
     <item>
       <title>eat</title>
-      <link>https://thejerney.com/categories/eat/</link>
-      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      <link>jerlim.github.io/categories/eat/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://thejerney.com/categories/eat/</guid>
+      <guid>jerlim.github.io/categories/eat/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>fly</title>
+      <link>jerlim.github.io/categories/fly/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>jerlim.github.io/categories/fly/</guid>
       
       <description></description>
       
