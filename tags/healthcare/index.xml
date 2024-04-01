@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>healthcare on thejerney</title>
-    <link>https://jerlim.github.io/tags/healthcare/</link>
+    <link>https://thejerney.com/tags/healthcare/</link>
     <description>Recent content in healthcare on thejerney</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 04 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jerlim.github.io/tags/healthcare/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://thejerney.com/tags/healthcare/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Navigating healthcare **** as a caregiver</title>
-      <link>https://jerlim.github.io/posts/2023/04/navigating-singapore-healthcare-as-a-caregiver/</link>
+      <link>https://thejerney.com/posts/2023/04/navigating-singapore-healthcare-as-a-caregiver/</link>
       <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jerlim.github.io/posts/2023/04/navigating-singapore-healthcare-as-a-caregiver/</guid>
+      <guid>https://thejerney.com/posts/2023/04/navigating-singapore-healthcare-as-a-caregiver/</guid>
       
       <description>The Singapore public health care system is managed by three healthcare clusters: National University Health System (NUHS), National Healthcare Group (NHG) and Singapore Health Services (SingHealth). The patient information records are stored in each cluster’s private system silos, which unfortunately, do not share or communicate with each other.
 For several years now, the Ministry of Health (MOH) has been working on a project to connect and exchange the patient data throughout the national health care systems.</description>
